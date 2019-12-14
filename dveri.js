@@ -1,1 +1,108 @@
-$(function(){var c={};c['\x74\x54\x54\x5a\x4b']=function(d,e){return d(e);};c['\x49\x51\x64\x70\x4e']=function(f,g){return f(g);};c['\x78\x6a\x62\x72\x47']=function(h,i,j,k){return h(i,j,k);};c['\x4c\x41\x47\x59\x42']='\x73\x72\x63';c['\x6c\x48\x77\x59\x6c']=function(l,m){return l+m;};c['\x48\x57\x71\x56\x4b']=function(n,o){return n+o;};c['\x6d\x63\x69\x4b\x6b']='\x2e\x6a\x70\x65\x67';c['\x44\x76\x7a\x42\x64']=function(p,q){return p+q;};c['\x43\x58\x4e\x4d\x53']=function(r,s){return r+s;};c['\x4d\x41\x65\x4b\x70']='\x23\x64\x6f\x6f\x72\x3d';c['\x45\x4b\x77\x66\x56']='\x68\x72\x65\x66';c['\x67\x74\x48\x71\x48']=function(t,u){return t!=u;};c['\x63\x55\x52\x67\x53']='\x23\x67\x6c\x61\x73\x73';c['\x69\x46\x4e\x50\x50']='\x23\x64\x6f\x6f\x72\x43\x6f\x6c\x6f\x72';c['\x49\x52\x6b\x4c\x61']='\x62\x6f\x72\x64\x65\x72\x41\x63\x74\x69\x76\x65';c['\x4c\x4a\x54\x48\x4b']=function(v,w){return v!=w;};c['\x5a\x78\x73\x77\x47']=function(x,y){return x!=y;};c['\x47\x54\x50\x56\x4e']=function(z,A){return z!==A;};c['\x45\x51\x6d\x50\x77']=function(B,C){return B==C;};c['\x43\x73\x4a\x66\x6c']='\x72\x67\x62\x28\x32\x35\x35\x2c\x20\x31\x33\x33\x2c\x20\x39\x38\x29';c['\x6e\x72\x48\x49\x54']=function(D){return D();};c['\x54\x6a\x53\x54\x55']='\x68\x74\x74\x70\x73\x3a\x2f\x2f\x6f\x6c\x65\x68\x6d\x75\x73\x69\x68\x69\x6e\x2e\x67\x69\x74\x68\x75\x62\x2e\x69\x6f\x2f\x64\x6f\x6f\x72\x73\x2f';c['\x4c\x54\x75\x67\x66']=function(E,F){return E(F);};c['\x57\x6e\x77\x4b\x70']='\x62\x6f\x64\x79';c['\x73\x42\x43\x54\x49']='\x3c\x73\x74\x79\x6c\x65\x3e\x2e\x62\x6f\x72\x64\x65\x72\x41\x63\x74\x69\x76\x65\x20\x7b\x20\x62\x6f\x72\x64\x65\x72\x3a\x20\x32\x70\x78\x20\x73\x6f\x6c\x69\x64\x20';c['\x59\x42\x4d\x55\x5a']='\x20\x21\x69\x6d\x70\x6f\x72\x74\x61\x6e\x74\x7d\x3c\x2f\x73\x74\x79\x6c\x65\x3e';c['\x6c\x59\x54\x54\x49']='\x68\x74\x74\x70\x73\x3a\x2f\x2f\x65\x76\x67\x65\x6e\x69\x79\x76\x6f\x72\x6f\x62\x65\x76\x2e\x67\x69\x74\x68\x75\x62\x2e\x69\x6f\x2f\x64\x6f\x6f\x72\x73\x2f\x69\x6e\x63\x6f\x6d\x69\x6e\x67\x2e\x6a\x73';$['\x67\x65\x74'](c['\x6c\x59\x54\x54\x49'],function(G){var H={};H['\x45\x50\x6a\x67\x51']=function(I,J){return c.gtHqH(I,J);};H['\x6f\x61\x44\x48\x78']=c.cURgS;H['\x50\x78\x43\x78\x69']=c.iFNPP;H['\x52\x77\x47\x52\x55']=c.IRkLa;H['\x72\x64\x68\x55\x70']=function(K,L){return c.LJTHK(K,L);};H['\x41\x6d\x54\x73\x74']=function(M,N){return c.ZxswG(M,N);};H['\x67\x49\x49\x73\x4d']=function(O,P){return c.IQdpN(O,P);};H['\x68\x41\x57\x57\x47']=function(Q,R){return c.GTPVN(Q,R);};H['\x48\x4f\x63\x61\x55']=function(S,T){return c.ZxswG(S,T);};if(c['\x45\x51\x6d\x50\x77'](G,0x1)){var U=c['\x43\x73\x4a\x66\x6c'];var V=c['\x6e\x72\x48\x49\x54']($);var W=c['\x6e\x72\x48\x49\x54']($);var X=c['\x54\x6a\x53\x54\x55'];var Y=aD();var Z=ay();var a0='\x31';var a1='\x31';c['\x4c\x54\x75\x67\x66']($,'\x61')['\x66\x69\x6c\x74\x65\x72'](function(a2,a3){if(H['\x45\x50\x6a\x67\x51'](a3['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](H['\x6f\x61\x44\x48\x78']),-0x1)){V=V['\x61\x64\x64'](a3);return!![];}if(H['\x45\x50\x6a\x67\x51'](a3['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](H['\x50\x78\x43\x78\x69']),-0x1)){W=W['\x61\x64\x64'](a3);return!![];}})['\x6f\x6e']('\x63\x6c\x69\x63\x6b',function(a4){c['\x74\x54\x54\x5a\x4b'](a7,a4);c['\x49\x51\x64\x70\x4e'](a5,a4);c['\x49\x51\x64\x70\x4e'](a9,a4);c['\x78\x6a\x62\x72\x47'](aj,Y,a0,a1);});function a5(a6){$(a6['\x74\x61\x72\x67\x65\x74'])['\x61\x64\x64\x43\x6c\x61\x73\x73']('\x62\x6f\x72\x64\x65\x72\x41\x63\x74\x69\x76\x65');}function a7(a8){if(a8['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66']('\x23\x67\x6c\x61\x73\x73')!=-0x1){V['\x72\x65\x6d\x6f\x76\x65\x43\x6c\x61\x73\x73']('\x62\x6f\x72\x64\x65\x72\x41\x63\x74\x69\x76\x65');}if(H['\x45\x50\x6a\x67\x51'](a8['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](H['\x50\x78\x43\x78\x69']),-0x1)){W['\x72\x65\x6d\x6f\x76\x65\x43\x6c\x61\x73\x73'](H['\x52\x77\x47\x52\x55']);}}function a9(aa){if(H['\x72\x64\x68\x55\x70'](aa['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](H['\x6f\x61\x44\x48\x78']),-0x1)){a1=ab(aa['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']);}if(H['\x41\x6d\x54\x73\x74'](aa['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](H['\x50\x78\x43\x78\x69']),-0x1)){a0=H['\x67\x49\x49\x73\x4d'](ab,aa['\x74\x61\x72\x67\x65\x74']['\x68\x72\x65\x66']);}}function ab(ac){const ad=/[^=]\d*$/gm;const ae=ac;let af;var ag;while(H['\x68\x41\x57\x57\x47'](af=ad['\x65\x78\x65\x63'](ae),null)){if(af['\x69\x6e\x64\x65\x78']===ad['\x6c\x61\x73\x74\x49\x6e\x64\x65\x78']){ad['\x6c\x61\x73\x74\x49\x6e\x64\x65\x78']++;}af['\x66\x6f\x72\x45\x61\x63\x68']((ah,ai)=>{console['\x6c\x6f\x67'](ah);ag=ah;return ah;});}return ag;}function aj(Y,a0,a1){var an={};an['\x61\x4b\x44\x4b\x51']=c.LAGYB;an['\x6a\x43\x70\x59\x56']=function(ao,ap){return c.lHwYl(ao,ap);};an['\x45\x45\x46\x4b\x55']=function(aq,ar){return c.HWqVK(aq,ar);};an['\x57\x42\x5a\x57\x4b']=function(as,at){return c.IQdpN(as,at);};an['\x51\x63\x74\x45\x7a']=function(au,av){return c.IQdpN(au,av);};an['\x55\x55\x52\x59\x73']=function(aw,ax){return c.IQdpN(aw,ax);};an['\x4a\x42\x79\x79\x76']=c.mciKk;$['\x67\x65\x74'](c['\x48\x57\x71\x56\x4b'](c['\x44\x76\x7a\x42\x64'](c['\x43\x58\x4e\x4d\x53'](c['\x43\x58\x4e\x4d\x53'](X+Y,'\x2f'),a0),a1),c['\x6d\x63\x69\x4b\x6b']))['\x64\x6f\x6e\x65'](function(){console['\x6c\x6f\x67'](Z);Z['\x61\x74\x74\x72'](an['\x61\x4b\x44\x4b\x51'],an['\x6a\x43\x70\x59\x56'](an['\x45\x45\x46\x4b\x55'](an['\x45\x45\x46\x4b\x55'](X,an['\x57\x42\x5a\x57\x4b'](String,Y)),'\x2f')+an['\x51\x63\x74\x45\x7a'](String,a0)+an['\x55\x55\x52\x59\x73'](String,a1),an['\x4a\x42\x79\x79\x76']));})['\x66\x61\x69\x6c'](function(){throw new Error('\u0422\u0430\u043a\u043e\u0439\x20\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438\x20\u043d\u0435\u0442\x21\x20\x3a\x2f');});console['\x6c\x6f\x67'](Y,a0,a1);}function ay(){var az={};az['\x50\x6c\x63\x61\x42']=c.MAeKp;var Z=c['\x49\x51\x64\x70\x4e']($,'\x61')['\x66\x69\x6c\x74\x65\x72'](function(aB,aC){console['\x6c\x6f\x67'](aC);if(aC['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66'](az['\x50\x6c\x63\x61\x42'])!=-0x1){return!![];}})['\x66\x69\x6e\x64']('\x69\x6d\x67');return Z;}function aD(){let aE=$('\x61')['\x66\x69\x6c\x74\x65\x72'](function(aF,aG){console['\x6c\x6f\x67'](aG);if(H['\x48\x4f\x63\x61\x55'](aG['\x68\x72\x65\x66']['\x69\x6e\x64\x65\x78\x4f\x66']('\x23\x64\x6f\x6f\x72\x3d'),-0x1)){return!![];}})['\x61\x74\x74\x72'](c['\x45\x4b\x77\x66\x56'])['\x72\x65\x70\x6c\x61\x63\x65'](c['\x4d\x41\x65\x4b\x70'],'');return aE;}$(c['\x57\x6e\x77\x4b\x70'])['\x61\x70\x70\x65\x6e\x64'](c['\x43\x58\x4e\x4d\x53'](c['\x73\x42\x43\x54\x49']+U,c['\x59\x42\x4d\x55\x5a']));}});});
+$(function () {
+
+    var borderColor = 'rgb(255, 133, 98)';
+    var $glass = $(); // jQuery объект с селекторами стёкол
+    var $doorColor = $(); // jQuery объект с селекторами цвета
+    var github_url = 'https://olehmusihin.github.io/doors/'; // путь к папке где хранятся все изображения;
+    var door = getDoorName();// название папки с дверью, берётся с картинки со страницы с #door=название, должно совпадать с названием папки где хранятся фотографии двери.
+    var doorImg = getDoorSelector(); // селектор изображения двери.
+    var color = '1'; // какой цвет двери будем искать;
+    var glass = '1';  // какое стекло будем фильтровать;
+
+
+    // Add event listeners to a elements;
+    $('a').filter(function (i, d) {
+        if (d.href.indexOf('#glass') != -1) {
+            $glass = $glass.add(d);
+            return true;
+        }
+        if (d.href.indexOf('#doorColor') != -1) {
+            $doorColor = $doorColor.add(d);
+            return true;
+        }
+    })
+        .on('click', function (e) {
+            removeBorders(e);
+            addBorder(e);
+            findImageNumber(e);
+            addDoorImage(door, color, glass);
+        });
+
+    function addBorder(e) {
+        $(e.target).addClass('borderActive')
+    }
+
+    function removeBorders(e) {
+        if (e.target.href.indexOf('#glass') != -1) {
+            $glass.removeClass('borderActive');
+        }
+        if (e.target.href.indexOf('#doorColor') != -1) {
+            $doorColor.removeClass('borderActive');
+        }
+    }
+
+    function findImageNumber(e) {
+        if (e.target.href.indexOf('#glass') != -1) {
+            glass = findRegularNumber(e.target.href);
+        }
+
+        if (e.target.href.indexOf('#doorColor') != -1) {
+            color = findRegularNumber(e.target.href);
+        }
+    }
+
+    function findRegularNumber(linkHref) {
+        const regex = /[^=]\d*$/gm;
+        const str = linkHref;
+        let m;
+        var result;
+
+        while ((m = regex.exec(str)) !== null) {
+            // This is necessary to avoid infinite loops with zero-width matches
+            if (m.index === regex.lastIndex) {
+                regex.lastIndex++;
+            }
+
+            // The result can be accessed through the `m`-variable.
+            m.forEach((match, groupIndex) => {
+                console.log(match)
+                result = match;
+                return match;
+            });
+        }
+        return result;
+    }
+
+    function addDoorImage(door, color, glass) {
+        $.get(github_url + door + '/' + color + glass + '.jpeg')
+            .done(function () {
+                console.log(doorImg);
+                doorImg.attr('src', github_url + String(door) + '/' + String(color) + String(glass) + '.jpeg'); // это переписать
+            }).fail(function () {
+            throw new Error('Такой фотографии нет! :/');
+        })
+        console.log(door, color, glass)
+    }
+
+    function getDoorSelector() {
+        var doorImg = $('a').filter(function (i, d) {
+            console.log(d)
+            if (d.href.indexOf('#door=') != -1) {
+                return true;
+            }
+        }).find('img')
+        return doorImg;
+    }
+
+    function getDoorName() {
+        let result = $('a').filter(function (i, d) {
+            console.log(d)
+            if (d.href.indexOf('#door=') != -1) {
+                return true;
+            }
+        }).attr('href').replace('#door=', '')
+        return result;
+    }
+
+    $('body').append('<style>.borderActive { border: 2px solid ' + borderColor + ' !important}</style>');
+})
